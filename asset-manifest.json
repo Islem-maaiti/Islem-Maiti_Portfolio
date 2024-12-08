@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Islem-Maiti_Portfolio/static/css/main.0902c040.chunk.css",
-    "main.js": "/Islem-Maiti_Portfolio/static/js/main.6ef71708.chunk.js",
-    "main.js.map": "/Islem-Maiti_Portfolio/static/js/main.6ef71708.chunk.js.map",
+    "main.js": "/Islem-Maiti_Portfolio/static/js/main.cd61f894.chunk.js",
+    "main.js.map": "/Islem-Maiti_Portfolio/static/js/main.cd61f894.chunk.js.map",
     "runtime-main.js": "/Islem-Maiti_Portfolio/static/js/runtime-main.360788dd.js",
     "runtime-main.js.map": "/Islem-Maiti_Portfolio/static/js/runtime-main.360788dd.js.map",
     "static/js/2.b2785a6b.chunk.js": "/Islem-Maiti_Portfolio/static/js/2.b2785a6b.chunk.js",
     "static/js/2.b2785a6b.chunk.js.map": "/Islem-Maiti_Portfolio/static/js/2.b2785a6b.chunk.js.map",
     "index.html": "/Islem-Maiti_Portfolio/index.html",
-    "precache-manifest.4e9706aee4077c4486f1a2b048d94858.js": "/Islem-Maiti_Portfolio/precache-manifest.4e9706aee4077c4486f1a2b048d94858.js",
+    "precache-manifest.488052a945e6c642a4c5718b57362bd5.js": "/Islem-Maiti_Portfolio/precache-manifest.488052a945e6c642a4c5718b57362bd5.js",
     "service-worker.js": "/Islem-Maiti_Portfolio/service-worker.js",
     "static/css/main.0902c040.chunk.css.map": "/Islem-Maiti_Portfolio/static/css/main.0902c040.chunk.css.map",
     "static/media/index.css": "/Islem-Maiti_Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -86,6 +86,6 @@
     "static/js/runtime-main.360788dd.js",
     "static/js/2.b2785a6b.chunk.js",
     "static/css/main.0902c040.chunk.css",
-    "static/js/main.6ef71708.chunk.js"
+    "static/js/main.cd61f894.chunk.js"
   ]
 }
