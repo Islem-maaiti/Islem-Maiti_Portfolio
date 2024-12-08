@@ -13,7 +13,7 @@ import Error404 from "../pages/errors/error404/Error";
 export default class Main extends Component {
   render() {
     return (
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/Islem-Maiti_Portfolio"> {/* Corrected basename */}
         <Switch>
           <Route
             path="/"
@@ -27,43 +27,42 @@ export default class Main extends Component {
             }
           />
           <Route
-            path="/home"
+            path="/Islem-Maiti_Portfolio/home" // Updated path
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
-            path="/experience"
+            path="/Islem-Maiti_Portfolio/experience" // Updated path
             exact
             render={(props) => (
               <Experience {...props} theme={this.props.theme} />
             )}
           />
           <Route
-            path="/education"
+            path="/Islem-Maiti_Portfolio/education" // Updated path
             render={(props) => (
               <Education {...props} theme={this.props.theme} />
             )}
           />
           <Route
-            path="/contact"
+            path="/Islem-Maiti_Portfolio/contact" // Updated path
             render={(props) => <Contact {...props} theme={this.props.theme} />}
           />
           {/* <Route
-            path="/opensource"
+            path="/Islem-Maiti_Portfolio/opensource" // Updated path
             render={(props) => (
               <Opensource {...props} theme={this.props.theme} />
             )}
           /> */}
-          
 
           {settings.isSplash && (
             <Route
-              path="/splash"
+              path="/Islem-Maiti_Portfolio/splash" // Updated path
               render={(props) => <Splash {...props} theme={this.props.theme} />}
             />
           )}
 
           <Route
-            path="/projects"
+            path="/Islem-Maiti_Portfolio/projects" // Updated path
             render={(props) => <Projects {...props} theme={this.props.theme} />}
           />
           <Route

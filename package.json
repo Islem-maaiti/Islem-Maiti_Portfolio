@@ -2,7 +2,8 @@
   "private": true,
   "name": "Islem's Portfolio",
   "version": "0.1.0",
-  "homepage": "https://islem-maaiti.github.io/",
+  "homepage": "https://Islem-maaiti.github.io/Islem-Maiti_Portfolio",  
+
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
