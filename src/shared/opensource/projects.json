@@ -1,0 +1,207 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "NLP Project - Customer Sentiment Analysis and Summary Generation System",
+      "createdAt": "2024-11-26T04:18:19Z",
+      "url": "https://github.com/Islem-maaiti/NLP-Project-Customer-Sentiment-Analysis-and-Summary-Generation-System.git",
+      "description": "Designing a recommendation system that analyzes user preferences to suggest items. This project includes customer sentiment analysis and summary generation.⚡Skills : PyTorch, RAG, TF-IDF, Word2Vec, FastText,LLM (T5, BART), Prompt Engineering, Agentic RAG, PEFT, RLHF",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+       
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": " Financial Automation Statements- with BFI:",
+      "createdAt": "2024-05-20T20:41:33Z",
+      "url": "https://youtu.be/IJ8SdTNJgmI",
+      "description": "📦Development of a solution to standardize financial statements from various sources, facilitating their extraction and classification according to a uniform standard format. ⚡ ⚡ ⚡ Skills : TDSP, Web Scapping, PyPDF2, Tesseract, Paddle OCR , LLaMA2, NER, SentenceTransformers, Power BI,Flask.",
+      "isFork": false,
+     "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        }
+]
+
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "Chatbot  for Athlete Support:",
+      "createdAt": "2024-05-20T20:41:33Z",
+      "url": "https://www.youtube.com/watch?v=FuBj3Pzj5_w&t=3s",
+      "description": "🔥Development of a chatbot to support athletes by providing instant responses, tailored advice, intuitive voice interaction, and translation functionality, thereby facilitating dialogue comprehension.⚡ Skills: NLP, Speech Recognition, Streamlit, Google Translate API, RAG, RASA, Flask, MySQL.",
+      "isFork": false,
+     "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Flask",
+          "iconifyClass": "logos-flask"
+        }
+        ]
+      },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "Mask Detection ",
+      "createdAt": "2024-01-30T16:26:54Z",
+      "url": "https://github.com/Islem-maaiti/Computer-Vision_Mask_Detection/blob/main/colab_mask_detection.ipynb",
+      "description": "🔥 Development of a mask detection system, classifying individuals based on whether they are wearing a mask, not wearing one, or wearing one incorrectly. ⚡Skills: PyTorch, RCNN, ResNet50,Data augmentation (Albumentations).",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "PyTorch",
+          "iconifyClass": "logos-pytorch"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "Spam Classifier",
+      "createdAt": "2024-01-20T14:50:20Z",
+      "url": "https://github.com/Islem-maaiti/Spam_Classifier.git",
+      "description": "🌀 Development of an email classification system to identify and filter spam by analyzing the content of messages. ⚡ Skills: NLTK, tokenization, lemmatization, feature extraction, logistic regression, random forest.",
+      "isFork": false,
+     "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+       
+      
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "Machine Learning Project :Intrusion Detection Systems (IDS)",
+      "createdAt": "2023-11-15T17:56:07Z",
+      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
+      "description": "⚙️ Developed an IDS to identify malicious network activities, classifying normal and suspicious behaviors.⚡ Skills: SVM, KNN, Decision Tree, Random Forest, Logistic Regression, XGBoost, DBSCAN, GMM, K-Means, XIA, Gradio.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "Gradio",
+          "iconifyClass": "logos-gradio"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Statistics Project: Heart Disease",
+      "createdAt": "2023-12-01T08:31:51Z",
+      "url": "https://github.com/Islem-maaiti/Heart-Disease.git",
+      "description": "🚀  Analysis of clinical data to predict heart diseases.⚡ Skills: R, ANOVA, Logistic Regression, PCA, Linear Regression",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "R",
+          "iconifyClass": "simple-icons:r"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": " Actuarial Projects: Impact of a mortality rate shock on a life annuity product and death benefit.",
+      "createdAt": "2023-12-01T08:31:51Z",
+      "url": "https://drive.google.com/file/d/1ypC6waSECVLHVu6ob08d6DYXhw49xs58/view?usp=sharing",
+      "description": "🚀Analysis of the impact of a mortality rate shock on the financial viability of annuities and the premiums required to guarantee benefits.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "R",
+          "iconifyClass": "simple-icons:r"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": " Time_Series Project: Climate Change",
+      "createdAt": "2024-2-16T08:31:51Z",
+      "url": "https://github.com/Islem-maaiti/Time_Series-Climate-Change.git",
+      "description": "🚀 Developed a time series analysis project to forecast climate conditions, focusing on temperature changes, sea level rise, and other environmental factors. ",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "R",
+          "iconifyClass": "simple-icons:r"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": " DevOps Project",
+      "createdAt": "2024-11-09T04:18:19Z",
+      "url": "https://www.linkedin.com/posts/islem-maiti-data-scientist_devops-technologiesabrutilisaezes-processus-activity-7259999671249506306-4y6y?utm_source=share&utm_medium=member_desktop",
+      "description": "🚀This project involved setting up a CI/CD pipeline for a Spring Boot and Angular application, automating the build, test, and deployment processes. Using Docker for containerization and Jenkins for pipeline automation, seamless integration and delivery were ensured. The project also included quality checks with Maven and SonarQube, and real-time monitoring with Prometheus and Grafana. This demonstrates skills in DevOps and automating software delivery.⚡ Skills: Spring Boot,Angular, Docker, Vagrant, Jenkins, Maven, SonarQube, Mockito, Jacoco, Nexus, Prometheus, Grafana",
+      "isFork": false,
+      "languages": [
+          {
+            "name": "Spring Boot",
+            "iconifyClass": "logos-spring"
+          },
+          {
+            "name": "Angular",
+            "iconifyClass": "logos-angular"
+          },
+          {
+            "name": "Docker",
+            "iconifyClass": "logos-docker"
+          },
+          {
+            "name": "Vagrant",
+            "iconifyClass": "logos-vagrant"
+          },
+          {
+            "name": "Jenkins",
+            "iconifyClass": "logos-jenkins"
+          },
+          {
+            "name": "Maven",
+            "iconifyClass": "logos-maven"
+          },
+          {
+            "name": "SonarQube",
+            "iconifyClass": "logos-sonarqube"
+          },
+         
+          {
+            "name": "Nexus",
+            "iconifyClass": "logos-nexus"
+          },
+          {
+            "name": "Prometheus",
+            "iconifyClass": "logos-prometheus"
+          },
+          {
+            "name": "Grafana",
+            "iconifyClass": "logos-grafana"
+          }
+
+
+      ]
+    }
+  ]
+}
