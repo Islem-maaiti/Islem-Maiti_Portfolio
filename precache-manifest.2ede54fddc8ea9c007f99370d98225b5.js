@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56b9c3b41ec42ba816ff3f3b9bdfe707",
+    "revision": "f66c4004bae513c807a3492034cfd3a3",
     "url": "/Islem-Maiti_Portfolio/index.html"
   },
   {
-    "revision": "213672a87f97e8fea92d",
+    "revision": "fd04e29518f6b901de0b",
     "url": "/Islem-Maiti_Portfolio/static/css/main.0902c040.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Islem-Maiti_Portfolio/static/js/2.b2785a6b.chunk.js"
   },
   {
-    "revision": "213672a87f97e8fea92d",
-    "url": "/Islem-Maiti_Portfolio/static/js/main.cd61f894.chunk.js"
+    "revision": "fd04e29518f6b901de0b",
+    "url": "/Islem-Maiti_Portfolio/static/js/main.f37b007d.chunk.js"
   },
   {
     "revision": "521f9e2ad8b07e1390ef",
