@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Islem-Maiti_Portfolio/static/css/main.0902c040.chunk.css",
-    "main.js": "/Islem-Maiti_Portfolio/static/js/main.f37b007d.chunk.js",
-    "main.js.map": "/Islem-Maiti_Portfolio/static/js/main.f37b007d.chunk.js.map",
+    "main.css": "/Islem-Maiti_Portfolio/static/css/main.db893941.chunk.css",
+    "main.js": "/Islem-Maiti_Portfolio/static/js/main.4701f98e.chunk.js",
+    "main.js.map": "/Islem-Maiti_Portfolio/static/js/main.4701f98e.chunk.js.map",
     "runtime-main.js": "/Islem-Maiti_Portfolio/static/js/runtime-main.360788dd.js",
     "runtime-main.js.map": "/Islem-Maiti_Portfolio/static/js/runtime-main.360788dd.js.map",
-    "static/js/2.b2785a6b.chunk.js": "/Islem-Maiti_Portfolio/static/js/2.b2785a6b.chunk.js",
-    "static/js/2.b2785a6b.chunk.js.map": "/Islem-Maiti_Portfolio/static/js/2.b2785a6b.chunk.js.map",
+    "static/js/2.594e0ee6.chunk.js": "/Islem-Maiti_Portfolio/static/js/2.594e0ee6.chunk.js",
+    "static/js/2.594e0ee6.chunk.js.map": "/Islem-Maiti_Portfolio/static/js/2.594e0ee6.chunk.js.map",
     "index.html": "/Islem-Maiti_Portfolio/index.html",
-    "precache-manifest.2ede54fddc8ea9c007f99370d98225b5.js": "/Islem-Maiti_Portfolio/precache-manifest.2ede54fddc8ea9c007f99370d98225b5.js",
+    "precache-manifest.062908517691fb7b71c378291aa18507.js": "/Islem-Maiti_Portfolio/precache-manifest.062908517691fb7b71c378291aa18507.js",
     "service-worker.js": "/Islem-Maiti_Portfolio/service-worker.js",
-    "static/css/main.0902c040.chunk.css.map": "/Islem-Maiti_Portfolio/static/css/main.0902c040.chunk.css.map",
+    "static/css/main.db893941.chunk.css.map": "/Islem-Maiti_Portfolio/static/css/main.db893941.chunk.css.map",
     "static/media/index.css": "/Islem-Maiti_Portfolio/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/AmenBank.png": "/Islem-Maiti_Portfolio/static/media/AmenBank.148f5518.png",
     "static/media/AmenBank_logo.png": "/Islem-Maiti_Portfolio/static/media/AmenBank_logo.def3db9e.png",
@@ -21,6 +21,7 @@
     "static/media/FullStackDev.webp": "/Islem-Maiti_Portfolio/static/media/FullStackDev.7711b037.webp",
     "static/media/IEEE.png": "/Islem-Maiti_Portfolio/static/media/IEEE.0c90ee2d.png",
     "static/media/IRA.png": "/Islem-Maiti_Portfolio/static/media/IRA.792e3e92.png",
+    "static/media/Infor_logo.png": "/Islem-Maiti_Portfolio/static/media/Infor_logo.b43ddd75.png",
     "static/media/Islem_avatar.webp": "/Islem-Maiti_Portfolio/static/media/Islem_avatar.24cd184b.webp",
     "static/media/Islem_avatar.png": "/Islem-Maiti_Portfolio/static/media/Islem_avatar.3edb19e2.png",
     "static/media/Nvidia_logo.svg.png": "/Islem-Maiti_Portfolio/static/media/Nvidia_logo.svg.9c9a27ee.png",
@@ -36,7 +37,7 @@
     "static/media/codeInLogo.png": "/Islem-Maiti_Portfolio/static/media/codeInLogo.fee92c18.png",
     "static/media/conatct2.png": "/Islem-Maiti_Portfolio/static/media/conatct2.df5e9e55.png",
     "static/media/contactMail.png": "/Islem-Maiti_Portfolio/static/media/contactMail.5f915405.png",
-    "static/media/data_science.svg": "/Islem-Maiti_Portfolio/static/media/data_science.29268a8f.svg",
+    "static/media/data_science.svg": "/Islem-Maiti_Portfolio/static/media/data_science.aacc336c.svg",
     "static/media/datascientist.png": "/Islem-Maiti_Portfolio/static/media/datascientist.9dbd5ed2.png",
     "static/media/deep_learning.png": "/Islem-Maiti_Portfolio/static/media/deep_learning.12d2d926.png",
     "static/media/deeplearning_ai_logo.png": "/Islem-Maiti_Portfolio/static/media/deeplearning_ai_logo.75a7107b.png",
@@ -58,6 +59,7 @@
     "static/media/ibm_logo.png": "/Islem-Maiti_Portfolio/static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "/Islem-Maiti_Portfolio/static/media/iiitk_logo.571a8584.png",
     "static/media/intel_logo.jpg": "/Islem-Maiti_Portfolio/static/media/intel_logo.29152cf7.jpg",
+    "static/media/islem.jpg": "/Islem-Maiti_Portfolio/static/media/islem.7316041b.jpg",
     "static/media/islem.png": "/Islem-Maiti_Portfolio/static/media/islem.e0c1b0bf.png",
     "static/media/iu_logo.png": "/Islem-Maiti_Portfolio/static/media/iu_logo.60ed0bd3.png",
     "static/media/jsFramework.svg": "/Islem-Maiti_Portfolio/static/media/jsFramework.5b4a6449.svg",
@@ -84,8 +86,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.360788dd.js",
-    "static/js/2.b2785a6b.chunk.js",
-    "static/css/main.0902c040.chunk.css",
-    "static/js/main.f37b007d.chunk.js"
+    "static/js/2.594e0ee6.chunk.js",
+    "static/css/main.db893941.chunk.css",
+    "static/js/main.4701f98e.chunk.js"
   ]
 }

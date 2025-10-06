@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f66c4004bae513c807a3492034cfd3a3",
+    "revision": "00b798f5a082e6d1f8235286a8471ab6",
     "url": "/Islem-Maiti_Portfolio/index.html"
   },
   {
-    "revision": "fd04e29518f6b901de0b",
-    "url": "/Islem-Maiti_Portfolio/static/css/main.0902c040.chunk.css"
+    "revision": "92bac9959ba3c324f871",
+    "url": "/Islem-Maiti_Portfolio/static/css/main.db893941.chunk.css"
   },
   {
-    "revision": "ede374a92bd8de19318e",
-    "url": "/Islem-Maiti_Portfolio/static/js/2.b2785a6b.chunk.js"
+    "revision": "7babc323f04b8b76e718",
+    "url": "/Islem-Maiti_Portfolio/static/js/2.594e0ee6.chunk.js"
   },
   {
-    "revision": "fd04e29518f6b901de0b",
-    "url": "/Islem-Maiti_Portfolio/static/js/main.f37b007d.chunk.js"
+    "revision": "92bac9959ba3c324f871",
+    "url": "/Islem-Maiti_Portfolio/static/js/main.4701f98e.chunk.js"
   },
   {
     "revision": "521f9e2ad8b07e1390ef",
@@ -84,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Islem-Maiti_Portfolio/static/media/IRA.792e3e92.png"
   },
   {
+    "revision": "b43ddd75263775f7177e8e1a8b3f7bf0",
+    "url": "/Islem-Maiti_Portfolio/static/media/Infor_logo.b43ddd75.png"
+  },
+  {
     "revision": "24cd184b0f3ce085f5750cc2d0c33f6a",
     "url": "/Islem-Maiti_Portfolio/static/media/Islem_avatar.24cd184b.webp"
   },
@@ -148,8 +152,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Islem-Maiti_Portfolio/static/media/contactMail.5f915405.png"
   },
   {
-    "revision": "29268a8fc809858b8af620077436607b",
-    "url": "/Islem-Maiti_Portfolio/static/media/data_science.29268a8f.svg"
+    "revision": "aacc336c2dd20d09eee29676ee46e8f8",
+    "url": "/Islem-Maiti_Portfolio/static/media/data_science.aacc336c.svg"
   },
   {
     "revision": "9dbd5ed26b59ea6b22a5a2e8a5bea543",
@@ -290,6 +294,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "29152cf756a1facead5393c32e373371",
     "url": "/Islem-Maiti_Portfolio/static/media/intel_logo.29152cf7.jpg"
+  },
+  {
+    "revision": "7316041beda63f2109ab02bd03edd239",
+    "url": "/Islem-Maiti_Portfolio/static/media/islem.7316041b.jpg"
   },
   {
     "revision": "e0c1b0bf7e14cd2ee82d17e017634793",
