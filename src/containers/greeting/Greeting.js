@@ -9,7 +9,6 @@ import FeelingProud from "./FeelingProud";
 
 // Importation de l'image avec la méthode `import`
 
-
 export default function Greeting(props) {
   const theme = props.theme;
   const [typingComplete, setTypingComplete] = useState(false); // État pour gérer la fin de l'animation
@@ -33,8 +32,15 @@ export default function Greeting(props) {
                   ( {greeting.nickname} )
                 </h2>
               )}
-              <p className="greeting-text-p subTitle" style={{ color: theme.secondaryText }}>
-                <Typing loop={false} speed={50} onFinishedTyping={handleTypingEnd}>
+              <p
+                className="greeting-text-p subTitle"
+                style={{ color: theme.secondaryText }}
+              >
+                <Typing
+                  loop={false}
+                  speed={50}
+                  onFinishedTyping={handleTypingEnd}
+                >
                   {greeting.subTitle}
                 </Typing>
               </p>
@@ -55,10 +61,12 @@ export default function Greeting(props) {
             </div>
           </div>
           <div className="greeting-image-div">
-            { <img
-							alt="saad sitting on table"
-							src={require("../../assets/images/islem.png")}
-						></img> }
+            {
+              <img
+                alt="saad sitting on table"
+                src={require("../../assets/images/islem.jpg")}
+              ></img>
+            }
             {/* <FeelingProud theme={theme} /> */}
           </div>
         </div>

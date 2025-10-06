@@ -29,119 +29,82 @@ class SkillSection extends Component {
     return (
       <div key={index} className="skills-main-div">
         <Fade left duration={2000}>
-        <div className="skills-image-div" style={{ marginTop: "120px" }}> {/* Ajout de marge ici */}
-        {skill.fileName === "DataScienceImg" && (
-            <>
-              <img
-                alt={`${skill.title} illustration`}
-                src={require(`../../assets/images/machine_learning.png`)}
-                style={{
-                  width: "60%",
-                  height: "auto",
-                  marginTop: "120px",
-                }}
-              />
-              <img
-                alt={`${skill.title} illustration`}
-                src={require(`../../assets/images/deep_learning.png`)}
-                style={{
-                  width: "60%",
-                  height: "auto",
-                  marginBottom: "-30px",
-                }}
-              />
-              <img
-                alt={`${skill.title} illustration`}
-                src={require(`../../assets/images/nlp.jpg`)}
-                style={{
-                  width: "75%",
-                  height: "auto",
-                  marginBottom: "-30px",
-                  marginBottom: "-5px", // petit espace entre les deux images
-
-                }}
-                        />
-              <img
-                alt={`${skill.title} illustration`}
-                src={require(`../../assets/images/agent-ia.jpg`)}
-                style={{
-                  width: "60%",
-                  height: "auto",
-                  marginBottom: "-30px",
-                }}
-              />
-              <img
-                alt={`${skill.title} illustration`}
-                src={require(`../../assets/images/llm.jpg`)}
-                style={{
-                  width: "65%",
-                  height: "auto",
-                  marginBottom: "-30px",
-                }}
-              />
-            </>
-          )}
-          {skill.fileName === "StatisticsImg" && (
-            <>
-              <img
-                alt={`${skill.title} illustration`}
-                src={require(`../../assets/images/stat-removebg-preview.png`)}
-                style={{
-                  width: "80%",
-                  height: "auto",
-                  marginTop: "120px",
-                }}
-              />
-                 
-            </>
-          )}
-          
-          {skill.fileName === "ActuarialScienceImg" && (
-            <>
-              <img
-                alt={`${skill.title} illustration`}
-                src={require(`../../assets/images/actuariat.png`)}
-                style={{
-                  width: "80%",
-                  height: "auto",
-                }}
-              />
-                 
-            </>
-          )}
-          {skill.fileName === "DevopsImg" && (
-            <>
-              <img
-                alt={`${skill.title} illustration`}
-                src={require(`../../assets/images/devops.png`)}
-                style={{
-                  width: "70%",
-                  height: "auto",
-                  marginTop: "20px",
-
-                }}
-              />
-                 
-            </>
-          )}
-          
-          {skill.fileName === "FullStackImg" && (
-            <>
-              <img
-                alt={`${skill.title} illustration`}
-                src={require(`../../assets/images/FullStackDev.webp`)}
-                style={{
-                  width: "70%",
-                  height: "auto",
-                  marginTop: "20px",
-
-                }}
-              />
-                 
-            </>
-          )}
-
-  
+          <div className="skills-image-div" style={{ marginTop: "120px" }}>
+            {" "}
+            {/* Ajout de marge ici */}
+            {skill.fileName === "DataScienceImg" && (
+              <>
+                <img
+                  alt={`${skill.title} illustration`}
+                  src={require(`../../assets/images/machine_learning.png`)}
+                  style={{
+                    width: "60%",
+                    height: "auto",
+                    marginTop: "120px",
+                  }}
+                />
+                <img
+                  alt={`${skill.title} illustration`}
+                  src={require(`../../assets/images/deep_learning.png`)}
+                  style={{
+                    width: "60%",
+                    height: "auto",
+                    marginBottom: "-30px",
+                  }}
+                />
+              </>
+            )}
+            {skill.fileName === "StatisticsImg" && (
+              <>
+                <img
+                  alt={`${skill.title} illustration`}
+                  src={require(`../../assets/images/stat-removebg-preview.png`)}
+                  style={{
+                    width: "60%",
+                    height: "auto",
+                    marginTop: "120px",
+                  }}
+                />
+              </>
+            )}
+            {skill.fileName === "ActuarialScienceImg" && (
+              <>
+                <img
+                  alt={`${skill.title} illustration`}
+                  src={require(`../../assets/images/actuariat.png`)}
+                  style={{
+                    width: "60%",
+                    height: "auto",
+                  }}
+                />
+              </>
+            )}
+            {skill.fileName === "DevopsImg" && (
+              <>
+                <img
+                  alt={`${skill.title} illustration`}
+                  src={require(`../../assets/images/devops.png`)}
+                  style={{
+                    width: "40%",
+                    height: "auto",
+                    marginTop: "20px",
+                  }}
+                />
+              </>
+            )}
+            {skill.fileName === "FullStackImg" && (
+              <>
+                <img
+                  alt={`${skill.title} illustration`}
+                  src={require(`../../assets/images/FullStackDev.webp`)}
+                  style={{
+                    width: "60%",
+                    height: "auto",
+                    marginTop: "20px",
+                  }}
+                />
+              </>
+            )}
           </div>
         </Fade>
 
@@ -177,7 +140,9 @@ class SkillSection extends Component {
 
     return (
       <div>
-        {skills.data.map((skill, index) => this.renderSkillCard(skill, theme, index))}
+        {skills.data.map((skill, index) =>
+          this.renderSkillCard(skill, theme, index)
+        )}
       </div>
     );
   }

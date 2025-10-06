@@ -16,7 +16,6 @@
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
         }
-       
       ]
     },
     {
@@ -26,7 +25,7 @@
       "url": "https://youtu.be/IJ8SdTNJgmI",
       "description": "📦Development of a solution to standardize financial statements from various sources, facilitating their extraction and classification according to a uniform standard format. ⚡ ⚡ ⚡ Skills : TDSP, Web Scapping, PyPDF2, Tesseract, Paddle OCR , LLaMA2, NER, SentenceTransformers, Power BI,Flask.",
       "isFork": false,
-     "languages": [
+      "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
@@ -35,8 +34,7 @@
           "name": "Flask",
           "iconifyClass": "logos-flask"
         }
-]
-
+      ]
     },
     {
       "id": "R_kgDOG_vYHA",
@@ -45,7 +43,7 @@
       "url": "https://www.youtube.com/watch?v=FuBj3Pzj5_w&t=3s",
       "description": "🔥Development of a chatbot to support athletes by providing instant responses, tailored advice, intuitive voice interaction, and translation functionality, thereby facilitating dialogue comprehension.⚡ Skills: NLP, Speech Recognition, Streamlit, Google Translate API, RAG, RASA, Flask, MySQL.",
       "isFork": false,
-     "languages": [
+      "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
@@ -54,8 +52,8 @@
           "name": "Flask",
           "iconifyClass": "logos-flask"
         }
-        ]
-      },
+      ]
+    },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       "name": "Mask Detection ",
@@ -77,7 +75,7 @@
       "url": "https://github.com/Islem-maaiti/Spam_Classifier.git",
       "description": "🌀 Development of an email classification system to identify and filter spam by analyzing the content of messages. ⚡ Skills: NLTK, tokenization, lemmatization, feature extraction, logistic regression, random forest.",
       "isFork": false,
-     "languages": [
+      "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
@@ -86,15 +84,13 @@
           "name": "Jupyter Notebook",
           "iconifyClass": "logos-jupyter"
         }
-       
-      
       ]
     },
     {
       "id": "R_kgDOGcPKSQ",
       "name": "Machine Learning Project :Intrusion Detection Systems (IDS)",
       "createdAt": "2023-11-15T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
+      "url": "https://github.com/Islem-maaiti/Machine-Learning-Project-Intrusion-Detection-Systems-IDS-",
       "description": "⚙️ Developed an IDS to identify malicious network activities, classifying normal and suspicious behaviors.⚡ Skills: SVM, KNN, Decision Tree, Random Forest, Logistic Regression, XGBoost, DBSCAN, GMM, K-Means, XIA, Gradio.",
       "isFork": false,
       "languages": [
@@ -158,49 +154,46 @@
       "description": "🚀This project involved setting up a CI/CD pipeline for a Spring Boot and Angular application, automating the build, test, and deployment processes. Using Docker for containerization and Jenkins for pipeline automation, seamless integration and delivery were ensured. The project also included quality checks with Maven and SonarQube, and real-time monitoring with Prometheus and Grafana. This demonstrates skills in DevOps and automating software delivery.⚡ Skills: Spring Boot,Angular, Docker, Vagrant, Jenkins, Maven, SonarQube, Mockito, Jacoco, Nexus, Prometheus, Grafana",
       "isFork": false,
       "languages": [
-          {
-            "name": "Spring Boot",
-            "iconifyClass": "logos-spring"
-          },
-          {
-            "name": "Angular",
-            "iconifyClass": "logos-angular"
-          },
-          {
-            "name": "Docker",
-            "iconifyClass": "logos-docker"
-          },
-          {
-            "name": "Vagrant",
-            "iconifyClass": "logos-vagrant"
-          },
-          {
-            "name": "Jenkins",
-            "iconifyClass": "logos-jenkins"
-          },
-          {
-            "name": "Maven",
-            "iconifyClass": "logos-maven"
-          },
-          {
-            "name": "SonarQube",
-            "iconifyClass": "logos-sonarqube"
-          },
-         
-          {
-            "name": "Nexus",
-            "iconifyClass": "logos-nexus"
-          },
-          {
-            "name": "Prometheus",
-            "iconifyClass": "logos-prometheus"
-          },
-          {
-            "name": "Grafana",
-            "iconifyClass": "logos-grafana"
-          }
-
-
+        {
+          "name": "Spring Boot",
+          "iconifyClass": "logos-spring"
+        },
+        {
+          "name": "Angular",
+          "iconifyClass": "logos-angular"
+        },
+        {
+          "name": "Docker",
+          "iconifyClass": "logos-docker"
+        },
+        {
+          "name": "Vagrant",
+          "iconifyClass": "logos-vagrant"
+        },
+        {
+          "name": "Jenkins",
+          "iconifyClass": "logos-jenkins"
+        },
+        {
+          "name": "Maven",
+          "iconifyClass": "logos-maven"
+        },
+        {
+          "name": "SonarQube",
+          "iconifyClass": "logos-sonarqube"
+        },
+        {
+          "name": "Nexus",
+          "iconifyClass": "logos-nexus"
+        },
+        {
+          "name": "Prometheus",
+          "iconifyClass": "logos-prometheus"
+        },
+        {
+          "name": "Grafana",
+          "iconifyClass": "logos-grafana"
+        }
       ]
     }
   ]
